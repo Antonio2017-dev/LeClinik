@@ -1,0 +1,4 @@
+1,Nehemias,09/28/1968,862-281-4373,Illinois,General Check
+2,Ana,02/06/1963,910-733-0746,Santo Domingo,Prescription
+3,Noemi,11/07/2000,555-555-5555,Mayaguez,Intervention
+4,Esteban,09/17/2002,939-865-4906,La Romana,General Check
